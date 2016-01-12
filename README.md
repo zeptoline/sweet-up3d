@@ -1,4 +1,5 @@
 # sweet-up3d
+[Dernière release](https://github.com/zeptoline/sweet-up3d/releases/tag/v1.0)
 
 Ce projet à pour but de faciliter l'export et l'import de fichier, de [sweet-home 3D](http://www.sweethome3d.com/) à [Sketchup](http://www.sketchup.com/)
 
