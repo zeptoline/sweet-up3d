@@ -11,8 +11,10 @@ Il est donc nécéssaire de corriger ce problème, grâce à ce projet.
 ###Instalation du plugin
 Pour utiliser ce plugin, il faut l'importer au format .jar dans data/plugins (dans la version portable de sweet-home3d)
 
-Avancement actuel du plugin :
-  -ajout d'un bouton dans le menu de sweet-home3d
 
+Avancement actuel du plugin :
+  -export possible en obj, en modifiant certains éléments pour correspondre avec l'importation sur Sketchup
+  
 Prochaine tache à réaliser :
-  -ajouter une action sur le bouton
+  -export en DAE depuis le plugin
+  -ou convertir le .obj en .dae par un programme externe, mais en conservant les textures
