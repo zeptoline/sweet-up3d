@@ -18,3 +18,9 @@ Avancement actuel du plugin :
 Prochaine tache à réaliser :
   -export en DAE depuis le plugin
   -ou convertir le .obj en .dae par un programme externe, mais en conservant les textures
+  
+  
+Projet réalisé par :
+  -Cédric "zeptoline" Berland
+  -Jean-Baptiste "Moussaraser" Lacour
+  -Matthieu "LordInateur" Fournier
