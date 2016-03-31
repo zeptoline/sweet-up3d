@@ -21,6 +21,6 @@ Prochaine tache à réaliser :
   
   
 Projet réalisé par :
-  -Cédric "zeptoline" Berland
-  -Jean-Baptiste "Moussaraser" Lacour
-  -Matthieu "LordInateur" Fournier
+  - Cédric "zeptoline" Berland
+  - Jean-Baptiste "Moussaraser" Lacour
+  - Matthieu "LordInateur" Fournier
